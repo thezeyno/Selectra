@@ -120,6 +120,9 @@ streamlit run app.py
 ⭐ If you like this project, consider giving it a star!
 
 ---
+## 📄 License
+This project is licensed under the MIT License.
+---
 
 ### 👩‍💻 Author
 Zeynep Coşkuner
