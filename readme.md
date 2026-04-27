@@ -61,7 +61,7 @@ streamlit run app.py
 Bu proje:
 - karar verme sürecini kolaylaştırmak
 - kullanıcı tercihlerini analiz etmek
-- asit bir “decision engine” mantığını göstermek
+- basit bir “decision engine” mantığını göstermek
 amacıyla geliştirilmiştir.
 
 ---
@@ -121,6 +121,7 @@ streamlit run app.py
 
 ---
 ## 📄 License
+
 This project is licensed under the MIT License.
 ---
 
